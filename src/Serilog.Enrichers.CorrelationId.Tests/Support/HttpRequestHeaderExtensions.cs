@@ -1,6 +1,5 @@
 ﻿using System.Collections;
 using System.Reflection;
-using System.Web;
 
 namespace Serilog.Tests.Support
 {

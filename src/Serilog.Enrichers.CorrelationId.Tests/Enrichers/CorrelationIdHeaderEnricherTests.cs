@@ -1,5 +1,6 @@
 ﻿using System.IO;
 using System.Web;
+using Microsoft.AspNetCore.Http;
 using NUnit.Framework;
 using Serilog.Events;
 using Serilog.Tests.Support;

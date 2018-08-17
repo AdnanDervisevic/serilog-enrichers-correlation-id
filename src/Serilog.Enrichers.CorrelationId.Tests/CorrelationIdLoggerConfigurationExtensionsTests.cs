@@ -3,7 +3,7 @@ using NUnit.Framework;
 using Serilog.Configuration;
 using Serilog.Tests.Support;
 
-namespace Serilog.Tests
+namespace Serilog.Enrichers.CorrelationId.Tests
 {
     [TestFixture]
     [Parallelizable]
