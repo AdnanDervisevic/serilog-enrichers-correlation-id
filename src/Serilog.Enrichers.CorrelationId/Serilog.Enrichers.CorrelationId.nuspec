@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
 <package>
   <metadata>
-    <id>$id$</id>
-    <version>$version$</version>
-    <title>$title$</title>
-    <authors>$author$</authors>
-    <owners>$author$</owners>
-    <projectUrl>https://github.com/ekmsystems/serilog-enrichers-correlation-id</projectUrl>
+    <id>670629ed-9f2f-4a2c-8a86-f8fb0faeeadc</id>
+    <version>1.0.0</version>
+    <title>Serilog Enrichers NetCore Correlation Id</title>
+    <authors>Adnan Dervisevic</authors>
+    <owners>Adnan Dervisevic</owners>
+    <projectUrl>https://github.com/AdnanDervisevic/serilog-enrichers-correlation-id</projectUrl>
     <licenseUrl>https://github.com/ekmsystems/serilog-enrichers-correlation-id/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
     <releaseNotes></releaseNotes>
     <copyright></copyright>
-    <tags>serilog enrichers enricher correlationid correlation id</tags>
+    <tags>serilog enrichers enricher correlationid correlation id netcore</tags>
   </metadata>
 </package>
